@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: peachpuff;
+    background-color: #031713;
 }
 
 .wrapper {
@@ -44,15 +44,15 @@ body {
 .add-box .icon{
     height: 78px;
     width: 78px;
-    color: peachpuff;
+    color: 031713;
     font-size: 40px;
     justify-content: center;
     border-radius: 50%;
-    border: 2px dashed peachpuff;
+    border: 2px dashed 031713;
 }
 
 .add-box p {
-    color: peachpuff;
+    color: 031713;
     font-weight:500;
     margin-top: 20px;
 }
@@ -83,17 +83,17 @@ body {
 
 .note .bottom-content {
     padding-top: 10px;
-    border-top: 2px solid peachpuff;
+    border-top: 2px solid 031713;
 }
 
 .bottom-content span {
-    color: black;
+    color: red;
     font-size:14px;
 
 }
 
 i.uil.uil-ellipsis-h{
-    color: black;
+    color: red;
     font-size: 14px;
     cursor: pointer;
 }
@@ -228,5 +228,5 @@ form .row label {
     outline: none;
     border-radius: 4px;
     border:none;
-    background-color: peachpuff;
+    background-color: 031713;
  }
