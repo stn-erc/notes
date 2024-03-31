@@ -1,2 +1,2 @@
-# [notes](https://stn-erc.github.io/notes/)
- Notes application 
+# [Notes](https://stn-erc.github.io/notes/)
+Working note taking application
